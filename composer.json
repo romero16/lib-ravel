@@ -1,9 +1,11 @@
 {
   "name": "desofware-lib/larevel",
-  "description": "Librería de Desofware",
-  "type": "Library",
-  "require": {
-    "romero16/lib-ravel": "master"
+  "description": "Librería desoftware",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
   },
   "repositories": [
     {
@@ -11,11 +13,9 @@
       "url": "https://github.com/romero16/lib-ravel"
     }
   ],
+  "require": {
+    "romero16/lib-ravel": "v1.0.0"
+  },
   "minimum-stability": "dev",
-  "prefer-stable": true,
-  "autoload": {
-    "psr-4": {
-      "App\\": "src/"
-    }
-  }
+  "prefer-stable": true
 }
