@@ -1,0 +1,7 @@
+{
+    "name": "lib-ravel",
+    "version": "1.0.0",
+    "main": "index.php",
+    "types": "index.d.php"
+  }
+  
