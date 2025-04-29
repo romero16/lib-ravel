@@ -1,4 +1,1 @@
-
-use App\services\service;
-
-
+require_once 'src/services/FilterService.php';

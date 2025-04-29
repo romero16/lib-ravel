@@ -1,0 +1,1 @@
+export { default as ModalSearchByMovile } from './components/ModalSearchByMovile.vue';
