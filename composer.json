@@ -1,21 +1,11 @@
 {
-  "name": "desofware-lib/larevel",
-  "description": "Librería desoftware",
+  "name": "desoftware/lib-ravel",
+  "description": "Librería para Laravel",
   "type": "library",
   "autoload": {
     "psr-4": {
-      "App\\": "src/"
+      "LibLaravel\\": "src/services/"
     }
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/romero16/lib-ravel"
-    }
-  ],
-  "require": {
-    "romero16/lib-ravel": "v1.0.0"
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  "require": {}
 }

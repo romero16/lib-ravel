@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services;
+namespace LibLaravel;
 use Illuminate\Support\Facades\DB;
 
 class FilterService
