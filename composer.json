@@ -14,7 +14,7 @@
     }
   ],
   "require": {
-    "romero16/lib-ravel": "dev-master"
+    "romero16/lib-ravel": "v1.0.0"
   },
   "minimum-stability": "dev"
 }
