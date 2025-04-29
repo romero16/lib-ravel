@@ -13,9 +13,9 @@
       "url": "https://github.com/romero16/lib-ravel"
     }
   ],
-  "require": {
-    "romero16/lib-ravel": "dev-master"
-  },
+"require": {
+  "romero16/lib-ravel": "v1.0.0"
+},
   "minimum-stability": "dev",
   "prefer-stable": true
 }
